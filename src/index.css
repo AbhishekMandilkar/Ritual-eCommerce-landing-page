@@ -1,0 +1,8 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+@import url("./fonts/stylesheet");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

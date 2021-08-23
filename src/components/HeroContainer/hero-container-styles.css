@@ -1,0 +1,5 @@
+.hero-container {
+  height: calc((100vw - 48px) * 0.38832);
+  width: calc(100vw - 20px);
+  padding: 0 25px 0 25px;
+}
